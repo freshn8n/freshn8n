@@ -13,7 +13,7 @@ Production Technician working hands-on with AI rack server hardware in Nashville
 - **[Aligned Productivity](https://github.com/freshn8n/Aligned-Productivity)**: a React Native/Expo app built with the Claude API
 
 ### Tools
-n8n · Supabase / pgvector · Python · JavaScript · Oracle Cloud (OCI) · Google IT Support Certificate
+n8n · Supabase / pgvector · Python · JavaScript · Oracle Cloud (OCI) · Google IT Support Certificate (in progress)
 
 ### Contact
 [LinkedIn](https://www.linkedin.com/in/blair-jones-43906112b)
