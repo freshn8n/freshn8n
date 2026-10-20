@@ -3,8 +3,8 @@
 Production Technician working hands-on with AI rack server hardware in Nashville, TN. I also build automation and AI tools.
 
 ### What I do
-- Diagnose and repair rack-scale AI server systems at Quanta Manufacturing Nashville
-- Isolate hardware faults with test equipment and maintain quality (QMS) documentation
+- Troubleshoot stress-test failures on liquid-cooled NVIDIA MGX AI rack systems at Quanta Manufacturing Nashville
+- Isolate server vs. rack faults from the command line (error logs, fabric mapping, VPD) and maintain QMS documentation
 - Build n8n automations and RAG (retrieval-augmented generation) systems
 
 ### Projects
